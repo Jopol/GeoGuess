@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GeoGuess</string>
+    <string name="todo">TODO</string>
+    <string name="is_this_photo_from_europe_or_not_swipe_to_left_if_not_right_if_you_think_it_is">Is this photo from
+        Europe or not?\n Swipe to Left if not.\n Right if you think it is.
+    </string>
+</resources>
